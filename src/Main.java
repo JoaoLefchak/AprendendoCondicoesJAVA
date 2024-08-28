@@ -15,6 +15,8 @@ public class Main {
         * <= Menor igual
         * == É igual
         * != É diferente
+        * /
+        * % = Resto
          */
 
         if(idadePessoa < 21) {
